@@ -1,3 +1,9 @@
+# TURNOS APP💅🏻
+
+<H2>Description:</H2>
+<h4>This appointment app is designed to manage bookings in an organized way. It allows you to add new appointments with client information and a service section (for example, nails or hairdressing). Appointments are automatically sorted by date and time.</h4>
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
