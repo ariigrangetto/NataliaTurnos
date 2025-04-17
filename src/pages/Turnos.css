@@ -1,0 +1,75 @@
+.presentacion-nav {
+  color: rgb(43, 41, 41);
+  font-size: 10px;
+}
+
+.btn-nuevoTurno:hover {
+  border: 2px solid #e0b9b9;
+}
+.btn-nuevoTurno {
+  border: 2px solid transparent;
+}
+
+.form-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+  font-family: "Segoe UI", sans-serif;
+  font-size: 14px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 12px;
+}
+
+.form-group label {
+  font-weight: 600;
+  color: #444;
+  margin-bottom: 4px;
+}
+
+.form-input {
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  transition: border-color 0.2s ease;
+  background-color: #fff;
+}
+
+.form-input:focus {
+  border-color: #e197a8;
+  outline: none;
+}
+
+.form-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.form-group.half {
+  flex: 1 1 45%;
+}
+
+.form-button {
+  width: 100%;
+  background-color: #c2526c;
+  color: #ffffff;
+  padding: 10px;
+  font-size: 14px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.form-button:hover {
+  background-color: #d67d90;
+}

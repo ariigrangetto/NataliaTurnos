@@ -1,0 +1,42 @@
+.turnos-lista {
+  list-style: none;
+  padding: 0;
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.turno-card {
+  background: #ffffff;
+  box-shadow: 2px 1px 6px 5px #ecebeb;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.turno-card:hover {
+  transform: scale(1.01);
+}
+
+.turno-info p {
+  margin: 0.3rem 0;
+  color: #333;
+  font-size: 1rem;
+}
+
+.btn-eliminar {
+  margin-top: 0.8rem;
+  background-color: #ff6b81;
+  color: white;
+  border: none;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.2s;
+}
+
+.btn-eliminar:hover {
+  background-color: #e63946;
+}

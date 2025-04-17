@@ -1,0 +1,24 @@
+.icon {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  height: 150px;
+}
+
+.welcome-message {
+  color: rgb(43, 41, 41);
+  margin-bottom: 10px;
+}
+
+.btn-ingresar {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  outline: none;
+  margin-top: 20px;
+  border: 2px solid transparent;
+}
+
+.btn-ingresar:hover {
+  border: 2px solid #e0b9b9;
+}
