@@ -13,7 +13,6 @@ const ListTurnos = React.memo(({deleteTurno, turnos}) => {
     }, [turnos]);
     //evitamos que se ordene cada que se renderiza el componente
 
-    console.log(turnos);
     return(
         <>
         <h2>Turnos programados:</h2>
