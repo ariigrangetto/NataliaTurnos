@@ -14,7 +14,7 @@ function TempHome (){
     return(
        <>
        <div className="presentation">
-       <img className="icon" src="src/assets/icono.png.jpg" alt="ICON OF APP" />
+       <img className="icon" src="/icono.png.jpg" alt="ICON OF APP" />
        <h1 className="welcome-message animate__bounceIn">Bienvenida!</h1>
        </div>
        <button onClick={turnosPage} className="btn-ingresar">Ingresar</button>
