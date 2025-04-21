@@ -3,7 +3,7 @@ import "./Home.css"
 import Turnos from "./Turnos";
 import { useNavigate } from "react-router-dom";
 
-export default function Home (){
+function Home (){
     const navigate = useNavigate();
 
     const turnosPage = () =>{
@@ -21,3 +21,5 @@ export default function Home (){
        </>
     )
 }
+
+export default Home;
