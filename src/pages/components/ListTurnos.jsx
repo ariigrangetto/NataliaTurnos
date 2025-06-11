@@ -1,5 +1,5 @@
 import React, { useMemo } from "react";
-import "../ListTurnos.css"
+import "./ListTurnos.css"
 const ListTurnos = React.memo(({deleteTurno, turnos}) => {
     //utilizamos el React.Mmeo para evitar que se re renderice si sus props no han cambiado
 

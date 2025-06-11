@@ -1,5 +1,6 @@
 import { useState } from "react";
 import ListTurnos from "./ListTurnos";
+import "./Form.css"
 
 export default function Form({setTurnos, turnos, showForm}) {
     const [name, setName] = useState("");

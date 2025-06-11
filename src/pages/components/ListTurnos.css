@@ -15,6 +15,10 @@
   transition: all 0.3s ease;
 }
 
+h2 {
+  color: black;
+}
+
 .turno-card:hover {
   transform: scale(1.01);
 }
