@@ -1,21 +1,26 @@
+# TurnosApp 💇🏻‍♀️
+Appointment app designed to manage bookings in an organized way. It allows you to add new appointments with client information and a service section (for example, nails or hairdressing). Appointments are automatically sorted by date and time.
+
+## 📝 Technologies
+
+- Vanilla Javascript
+- CSS
+
+## 🧠 The Process
+
+The purpose of this project was to improve my programming logic through this well-known game, which includes different game states such as initialGame (the initial board state), win (when the player wins), and GameOver (when the game ends).
+
+I started by building an initial board model that is displayed when the game loads. The next step was to validate the user's moves, making sure they follow the rules for both rows and columns, and also preventing the repetition of numbers (1–9) in each square.
+
+If a move is incorrect, an error message will appear. Upon completing the game correctly, a confetti animation will be triggered to celebrate the victory.
+
+## 🌆 Previe
+
+
 # TURNOS APP💅🏻
 
 <H2>Description:</H2>
 <h4>This appointment app is designed to manage bookings in an organized way. It allows you to add new appointments with client information and a service section (for example, nails or hairdressing). Appointments are automatically sorted by date and time.</h4>
 
-<h2>🧠What I learn here:</h2>
-<h4>- How to use and test my own app with Playwright.</h4>
 
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![turnos](https://github.com/user-attachments/assets/ccc779a4-9870-4f39-87f1-46ec9ed51bac)
