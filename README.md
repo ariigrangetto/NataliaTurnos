@@ -3,7 +3,7 @@ Appointment app designed to manage bookings in an organized way. It allows you t
 
 ## 📝 Technologies
 
-- React
+- `React`
 - `CSS`
 - `useState`
 - `useEffect`
